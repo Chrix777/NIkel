@@ -1,0 +1,8 @@
+.background-city {
+    background: url(../images/background.jpg ) no-repeat ;
+    background-size: cover
+}
+
+#emailHelp {
+    color: black;
+}
